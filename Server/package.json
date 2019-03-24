@@ -1,15 +1,18 @@
 {
   "name": "server",
   "version": "0.0.1",
-  "description": "A back-end for HomeMonitor",
+  "description": "A back-end my Experience project",
   "main": "server.js",
   "keywords": [
     "npm"
   ],
-  "author": "HomeMonitor",
+  "author": "Tarik HAMLAT",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "mocha": "^4.1.0"
