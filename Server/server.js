@@ -23,7 +23,7 @@ app.get('/', function(req, res) {
 });
 
 app.get('/experience', function(req, res) {
-  res.json(JSON.parse(fs.readFileSync('./FirstExper.json','utf8')));
+  res.json(JSON.parse(fs.readFileSync('./cv.json','utf8')));
 });
 
 app.listen(8080);

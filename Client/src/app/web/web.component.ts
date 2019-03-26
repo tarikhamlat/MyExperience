@@ -1,13 +1,12 @@
-import {Component, OnInit} from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import {ProviderService} from '../provider/provider.service';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss']
+  selector: 'app-web',
+  templateUrl: './web.component.html',
+  styleUrls: ['./web.component.scss']
 })
-export class HomeComponent implements OnInit {
-
+export class WebComponent implements OnInit {
   file: any;
 
   constructor(private provider: ProviderService) {
@@ -19,7 +18,6 @@ export class HomeComponent implements OnInit {
       this.file = data;
       console.log(this.file);
     });
-
   }
 
 }

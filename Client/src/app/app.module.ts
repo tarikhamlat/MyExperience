@@ -7,13 +7,19 @@ import { HomeComponent } from './home/home.component';
 import { ExperienceComponent } from './experience/experience.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import {HttpClientModule} from '@angular/common/http';
+import { WebComponent } from './web/web.component';
+import { MobileComponent } from './mobile/mobile.component';
+import { DataComponent } from './data/data.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     ExperienceComponent,
-    NavbarComponent
+    NavbarComponent,
+    WebComponent,
+    MobileComponent,
+    DataComponent
   ],
   imports: [
     BrowserModule,

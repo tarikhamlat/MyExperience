@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
+import {ProviderService} from '../provider/provider.service';
 
 @Component({
   selector: 'app-experience',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ExperienceComponent implements OnInit {
 
-  constructor() { }
+  @Input() file: any;
+
+  constructor() {
+  }
 
   ngOnInit() {
+
   }
 
 }
