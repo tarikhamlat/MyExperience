@@ -1,5 +1,4 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {ProviderService} from '../provider/provider.service';
 
 @Component({
   selector: 'app-experience',

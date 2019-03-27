@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {ProviderService} from "../provider/provider.service";
+import {ProviderService} from '../provider/provider.service';
 
 @Component({
   selector: 'app-data',
