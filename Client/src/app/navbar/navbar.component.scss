@@ -1,7 +1,5 @@
-@import url(https://fr.allfont.net/allfont.css?fonts=comic-sans-ms);
-
 .navbar {
-  background-color: darkcyan;
+  background-color: #8b473a;
   color: black;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
@@ -11,13 +9,6 @@
   font-size: 20px;
 }
 
-/*.nav-link:focus {
-  color: darkorange;
-}*/
-
-.navbar-left {
-  width: 15%;
-}
 
 ul li.active a {
   color: darkorange;

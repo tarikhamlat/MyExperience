@@ -23,21 +23,21 @@
 
       "web": {
         "name": "Master 2 PFE : Solution d'aide à l'orientation",
-        "startDate": "2013-01-01",
-        "endDate": "2014-01-01",
+        "startDate": "11-2018",
+        "endDate": "02-2019",
         "summary": "- Analyse des besoins.\n- Modélisation, création des modèles et entités sous UML.\n- Machine learning pour la prédiction de la réussite ou de l'échec d'un candidat.\n- Frontend : Angular, HTML, CSS, Bootstrap.\n- Backend : JEE (Spring boot, Spring MVC, Spring security, Spring Data/JPA)."
       },
       "mobile": {
         "name": "Foody app mobile d'analyse de produits",
-        "startDate": "2013-01-01",
-        "endDate": "2014-01-01",
+        "startDate": "10-2018",
+        "endDate": "02-2019",
         "summary": "- Scanner des Code-barres (capteur : caméra).\n- Manipulation API REST.\n- Firebase pour le stockage et l'authentification.\n- Machine learning pour pour déterminer la qualité d'un produit."
       },
 
       "data": {
         "name": "Projet Data Science - Kaggle Challenge",
-        "startDate": "2013-01-01",
-        "endDate": "2014-01-01",
+        "startDate": "09-2018",
+        "endDate": "12-2018",
         "summary": "- Définition l’objectif\n- Collecte et traitement de données\n- Construction du modèle\n- Evaluation et « critique » du modèle\n- Génération de modèle\n- Présentation et documentation des résultats\n- Déploiement du modèle\n- Résultat de prédiction : 80%"
       }
     },
@@ -67,8 +67,16 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Anglais",
+      "fluency": "Technique"
+    },
+    {
+      "language": "Français",
+      "fluency": "bilingue TCF C2"
+    },
+    {
+      "language": "Kabyle",
+      "fluency": "langue maternelle"
     }
   ]
 }
