@@ -1,9 +1,9 @@
 ### 1. Technologies utilisées : 
-#### 1.1. Serveur
-* Node.js
-
-#### 1.2. Stockage : 
+#### 1.1. Stockage : 
 * Fichier Json
+
+#### 1.2. Serveur
+* Node.js
 
 #### 1.3. Client
 * Angular 7
@@ -19,7 +19,7 @@ Ouvrir un terminal dans le dossier "Server" puis faire :
 
 #### 2.2. Client
 
-Pour le lancer en local, ouvrir un terminal dans le dossier "Client" puis faire :  
+Ouvrir un terminal dans le dossier "Client" puis faire :  
 `npm install`  
 `npm start --open`  
 Le client est alors accessible à l'adresse <http://localhost:4200/>   
